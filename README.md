@@ -5,7 +5,7 @@ Repo ini bertujuan untuk lebih mengenali dosen, beserta dengan tips saat menemui
 
 # Feature
 * Melihat informasi dosen berdasarkan API http://filkom.ub.ac.id/module/api/conf/get_civitas/dosen/
-* Menambah tips dan saran saat menemui dosen
+* Menambah tips dan saran ketika menemui dosen
 
 # Structure project
 ## MainActivity
